@@ -52,4 +52,8 @@
   .main-nav-list {
     gap: 3.2rem;
   }
+
+  .testimonials-container {
+    padding: 9.6rem 3.2rem;
+  }
 }
